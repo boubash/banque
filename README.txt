@@ -1,1 +1,3 @@
-projet banque avec niasse
+projet banque avec niasse. 
+
+Développé par @PapePathe & @boubash
